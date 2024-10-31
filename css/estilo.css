@@ -6,3 +6,11 @@ h1{
     font-size: 75px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+section{
+    height: 80px;
+    background-color: chartreuse;
+    color: azure;
+}
+img{
+    width: 450px;
+}
